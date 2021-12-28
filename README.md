@@ -8,7 +8,7 @@
 Simply put the downloaded ApplyToDictionaryAttribute folder in your project
 and start using the attribute as shown in the examples.
 You can move the files, but make sure that `ApplyToDictionaryKeys.cs` and `ApplyToDictionaryValues.cs`
-is not in an editor folder or it will be removed during build, causing errors.
+are not in an editor folder or they will be removed during build, causing errors.
 
 ### Examples
 ```csharp
